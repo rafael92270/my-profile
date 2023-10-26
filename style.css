@@ -1,0 +1,55 @@
+body{
+	background-color:rgba(190, 215, 230, 0.5);
+	color:#546669;
+	font-family: 'Playfair Display', serif;
+	font-weight:500;
+	font-size: 17px;
+
+}
+
+h1{
+	color:rgba(160, 190, 224, 1.0);
+	font-family: 'Roboto', sans-serif;
+	font-size: 32px;
+	font-weight:500;
+
+}
+
+h2{
+	color:rgba(160, 190, 224, 1.0);
+	font-family:Cambria
+	font-size: 22px;
+	font-weight: lighter;
+
+
+	
+}
+
+a{
+	color: blue;
+	text-decoration: none;
+}
+a:hover{
+	color: darkred;
+}
+
+.container {
+	width:700px;
+	margin:40px auto;
+
+
+
+}
+.cardwhite{
+    background: white;
+    padding: 40px;
+    margin: 20px 0px ;
+    box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+    border-radius: 4px;
+    text-align: center;
+}
+
+#Intro{
+	margin-bottom: 40px;
+}
+
